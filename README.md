@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Trevor McCowen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To manipulate the tax brackets in accordance with each given category, using the given information provided on the assignment pdf file. Altering the if/else statement in the necessary way to make it correct for each filing method.
+Also to generate code used to complete the correct operation status of the clear button.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tmccowen.github.io/chatmon_lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned the different tax brackets available in the United States.
+2. Learned the usage of conditional statements using if/else functions.
+3. Learned the proper procedure and execution of storing information in arrays.
 
